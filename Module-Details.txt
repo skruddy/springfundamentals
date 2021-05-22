@@ -1,0 +1,10 @@
+Module 1 -> Course Overview
+Module 2 -> Introducing SB and its benefits
+Module 3 -> Bootstrapping a simple application
+Module 4 -> Accessing data with SB H2
+Module 5 -> Configuration
+Module 6 -> REST architecture, ResponseFormats, ExcHandling 
+Module 7 -> GraphQL
+Module 8 -> Spring Actuator
+Module 9 -> Testing with SB
+ 
